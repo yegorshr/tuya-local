@@ -74,6 +74,7 @@
 - Magnum MRC floor heating (2 variants)
 - Manissa OWS-02A towel rail
 - Mellerware Comfy electric radiator (tested with Medium 1200W)
+- Mirrorstone Ionis MS-ION-18WW infrared bar heater
 - Modern Ember Vibrance XH-BG-15W/30WZKWIFI-10 electric fireplace
 - Modern Flames Orion and Landscape Pro Slim electric fireplaces
 - Nedis ceramic PTC fan heater
